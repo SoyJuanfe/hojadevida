@@ -1,0 +1,110 @@
+.todo {
+  display: flex;
+}
+
+.cuadro-a {
+  background-color: #2ecc71;
+  height: 1280px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.redondo {
+  border: 1px solid black;
+  border-radius: 50%;
+  align-items: center;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  height: 90px;
+  width: 100px;
+  background-color: #DAF7A6;
+}
+
+.jf {
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.edu {
+  margin: 20px 5px;
+}
+
+.educa {
+  font-size: 27px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.las-educaciones {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.ima-cole {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.titulos {
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 5px;
+}
+
+.portafolio {
+  margin: 0 auto;
+  background-color: #ecf0f1;
+  width: 876px;
+  border-radius: 10px;
+
+}
+
+.letra-porta {
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo-portafolio {
+  margin: 5px;
+
+}
+
+.nombre-paginas {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.image {
+  width: 200px;
+  height: 100px;
+}
+
+.separaciones {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image1 {
+  width: 200px;
+  height: 320px;
+}
+
+.div-educ {
+  margin-top: 20px;
+}
+
+.letra-skills {
+  font-family: fantasy;
+  font-size: 26px;
+}
+
+.los-skills {
+  font-size: 20px;
+  font-family: serif;
+}
